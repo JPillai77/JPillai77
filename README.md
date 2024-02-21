@@ -2,4 +2,4 @@
 - 🌱 I’m currently learning ... large language models and immunobiology
 - 👯 I’m looking to collaborate on ... nothing at the moment
 - 👀 I'm interested in ... immunobiology
-- 📫 How to reach me: joshpillai949@gmail.com
+- 📫 How to reach me ... joshpillai949@gmail.com
